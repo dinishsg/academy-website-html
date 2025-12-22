@@ -2,7 +2,7 @@
 ![Beginner Project](https://img.shields.io/badge/Level-Beginner-green)
 
 
-# CodeSpark Academy – HTML Practice Project 🚀
+# CodeSpark Academy – HTML Practice Project 
 
 This is a **beginner-level, multi-page website** built using **pure HTML** as part of learning web development fundamentals.  
 The project demonstrates basic webpage structure, forms, tables, links, and content organization.
